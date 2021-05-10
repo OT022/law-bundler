@@ -1,0 +1,38 @@
+name: pdf
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.1.19=haa95532_0
+  - certifi=2020.12.5=py38haa95532_0
+  - openssl=1.1.1j=h2bbff1b_0
+  - pip=20.2.3=py38_0
+  - python=3.8.5=h5fd99cc_1
+  - pywin32=227=py38he774522_1
+  - setuptools=50.3.0=py38h9490d1a_1
+  - sqlite=3.33.0=h2a8f88b_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_3
+  - wheel=0.35.1=py_0
+  - wincertstore=0.2=py38_0
+  - zlib=1.2.11=h62dcd97_4
+  - pip:
+    - appdirs==1.4.4
+    - astroid==2.4.2
+    - colorama==0.4.4
+    - docx2pdf==0.1.7
+    - fs==2.4.11
+    - isort==5.6.4
+    - lazy-object-proxy==1.4.3
+    - lxml==4.6.2
+    - mccabe==0.6.1
+    - pillow==8.1.1
+    - pylint==2.6.0
+    - pypdf2==1.26.0
+    - python-docx==0.8.10
+    - pytz==2020.1
+    - reportlab==3.5.59
+    - six==1.15.0
+    - toml==0.10.1
+    - tqdm==4.58.0
+    - wrapt==1.12.1
+prefix: C:\Users\timea\.conda\envs\pdf
